@@ -31,5 +31,5 @@
 버그 등이 발생하면 이슈로 등록해 주시거나, 문제가 되는 부분을 수정하신 후 PR해 주시면 감사하겠습니다.
 
 ## 라이선스
-이 라이브러리는 [MIT 라이선스](https://github.com/OneTop4458/smartstore-macro/blob/master/LICENSE)를 따라 자유롭게 이용하실 수 있습니다.
+이 매크로는 [MIT 라이선스](https://github.com/OneTop4458/smartstore-macro/blob/master/LICENSE)를 적용받습니다.
 
