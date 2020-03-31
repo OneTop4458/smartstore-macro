@@ -1,0 +1,5 @@
+본 파일에는 매크로를 다중으로 돌리고 싶을때 
+파일의 모든 내용을 지운 후 여러 사이트를 아래처럼 기입하고 run_multisite_macro.bat 을 실행합니다.
+ex)
+https://smartstore.naver.com/상품주소1
+https://smartstore.naver.com/상품주소2
