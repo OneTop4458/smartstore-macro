@@ -1,5 +1,5 @@
 @ECHO off
-SET APP=run_macro.py
+SET APP=SMARTSTORE-MACRO.exe
 rem MASK on site
 FOR /F "delims=" %%i in (SITE.txt) DO (
 echo %%i
